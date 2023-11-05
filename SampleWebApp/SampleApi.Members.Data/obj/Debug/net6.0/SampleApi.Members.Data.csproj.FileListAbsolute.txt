@@ -1,0 +1,11 @@
+D:\My-Study-Poc\SampleWebApp\SampleWebApp\SampleApi.Members.Data\bin\Debug\net6.0\SampleApi.Members.Data.deps.json
+D:\My-Study-Poc\SampleWebApp\SampleWebApp\SampleApi.Members.Data\bin\Debug\net6.0\SampleApi.Members.Data.dll
+D:\My-Study-Poc\SampleWebApp\SampleWebApp\SampleApi.Members.Data\bin\Debug\net6.0\SampleApi.Members.Data.pdb
+D:\My-Study-Poc\SampleWebApp\SampleWebApp\SampleApi.Members.Data\obj\Debug\net6.0\SampleApi.Members.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\My-Study-Poc\SampleWebApp\SampleWebApp\SampleApi.Members.Data\obj\Debug\net6.0\SampleApi.Members.Data.AssemblyInfoInputs.cache
+D:\My-Study-Poc\SampleWebApp\SampleWebApp\SampleApi.Members.Data\obj\Debug\net6.0\SampleApi.Members.Data.AssemblyInfo.cs
+D:\My-Study-Poc\SampleWebApp\SampleWebApp\SampleApi.Members.Data\obj\Debug\net6.0\SampleApi.Members.Data.csproj.CoreCompileInputs.cache
+D:\My-Study-Poc\SampleWebApp\SampleWebApp\SampleApi.Members.Data\obj\Debug\net6.0\SampleApi.Members.Data.dll
+D:\My-Study-Poc\SampleWebApp\SampleWebApp\SampleApi.Members.Data\obj\Debug\net6.0\refint\SampleApi.Members.Data.dll
+D:\My-Study-Poc\SampleWebApp\SampleWebApp\SampleApi.Members.Data\obj\Debug\net6.0\SampleApi.Members.Data.pdb
+D:\My-Study-Poc\SampleWebApp\SampleWebApp\SampleApi.Members.Data\obj\Debug\net6.0\ref\SampleApi.Members.Data.dll
